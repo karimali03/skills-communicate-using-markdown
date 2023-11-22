@@ -3,3 +3,14 @@
 # hello world
 
 ![AI Revelution](https://github.com/karimali03/skills-communicate-using-markdown/blob/start-markdown/image.png)
+
+
+```cpp
+#include <iostream>
+using namespace std;
+int main()
+{
+  cout<<"Hello World"<<"\n";
+  return 0;
+}
+```
