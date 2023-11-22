@@ -16,6 +16,6 @@ int main()
 ```
 
 # TO DO List
-- [] go to gym
+- [ ] go to gym
 - [x] go to match
-- [] finish your homework
+- [ ] finish your homework
